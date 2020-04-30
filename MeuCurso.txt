@@ -1,0 +1,3 @@
+Disciplina: automaçao de processo
+sala:709
+curso: Sistema de informaçao
