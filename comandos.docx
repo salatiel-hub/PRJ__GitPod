@@ -1,0 +1,56 @@
+Exerc�cio 2
+GitPod
+
+Os comandos utilizados para cada item:
+1 Etapa
+
+Git branch projeto_1
+Git status
+Git checkout
+Git status
+Git add .
+Git pull
+Git commit -m � �
+Git push
+Git push �set-upstream origin projeto_1
+
+2 Etapa
+
+Git checkout master
+Git branch Projeto_2
+Git status
+Git checkout Projeto_2
+Git pull origin Projeto_1
+Git add .
+Git status
+Git pull
+Git commit -m � �
+Git push
+Git push �set-upstream origin Projeto_2
+
+3 etapa
+Reverta a vers�o da Branch �projeto_2
+
+4 Etapa
+
+Git checkout master
+Git branch projeto_3
+Git status
+Git checkout Projeto_3
+git pull origin Ptojeto_1
+git add .
+git status
+git pull
+git commit -m � �
+git push
+git push �set-upstream origin Projeto_3
+git add .
+git status
+git pull
+git commit -m � �
+
+git branch Comandos
+git branch
+git checkout Comandos
+
+PRJ_GitPod
